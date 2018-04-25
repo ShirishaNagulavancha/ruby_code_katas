@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3446b63d-4d1c-4bfa-82fb-0bb263a87605" name="Default" comment="" />
+    <list default="true" id="3446b63d-4d1c-4bfa-82fb-0bb263a87605" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Katas/blocks.rb" afterPath="$PROJECT_DIR$/Katas/blocks.rb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +20,7 @@
     <SUITE FILE_PATH="coverage/shirisha_additions@Run_spec__sum_square_difference_spec___shirisha_additions.coverage" NAME="Run spec 'sum_square_difference_spec': shirisha-additions Coverage Results" MODIFIED="1524516500488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rspec" MODULE_NAME="shirisha-additions" />
     <SUITE FILE_PATH="coverage/shirisha_additions@greatest_product_of_adjacent_digits.coverage" NAME="greatest_product_of_adjacent_digits Coverage Results" MODIFIED="1524253646686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Katas" MODULE_NAME="shirisha-additions" />
     <SUITE FILE_PATH="coverage/shirisha_additions@high_and_low.coverage" NAME="high_and_low Coverage Results" MODIFIED="1524664390670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Katas" MODULE_NAME="shirisha-additions" />
-    <SUITE FILE_PATH="coverage/shirisha_additions@Run_spec__blocks_spec___shirisha_additions.coverage" NAME="Run spec 'blocks_spec': shirisha-additions Coverage Results" MODIFIED="1524684088397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rspec" MODULE_NAME="shirisha-additions" />
+    <SUITE FILE_PATH="coverage/shirisha_additions@Run_spec__blocks_spec___shirisha_additions.coverage" NAME="Run spec 'blocks_spec': shirisha-additions Coverage Results" MODIFIED="1524689636831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rspec" MODULE_NAME="shirisha-additions" />
     <SUITE FILE_PATH="coverage/shirisha_additions@highly_divisible_triangular_number.coverage" NAME="highly_divisible_triangular_number Coverage Results" MODIFIED="1524580091188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Katas" MODULE_NAME="shirisha-additions" />
     <SUITE FILE_PATH="coverage/shirisha_additions@splat_method.coverage" NAME="splat_method Coverage Results" MODIFIED="1524600584523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Katas" MODULE_NAME="shirisha-additions" />
     <SUITE FILE_PATH="coverage/shirisha_additions@largest_palindrome_product.coverage" NAME="largest_palindrome_product Coverage Results" MODIFIED="1524515815044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Katas" MODULE_NAME="shirisha-additions" />
@@ -25,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="take_a_ten_minute_walk.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="take_a_ten_minute_walk.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Katas/take_a_ten_minute_walk.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="459">
+              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blocks_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blocks_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rspec/blocks_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -48,8 +51,8 @@
       <file leaf-file-name="blocks.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Katas/blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -96,9 +99,9 @@
         <option value="$PROJECT_DIR$/Rspec/high_and_low_spec.rb" />
         <option value="$PROJECT_DIR$/Katas/high_and_low.rb" />
         <option value="$PROJECT_DIR$/Rspec/blocks_spec.rb" />
-        <option value="$PROJECT_DIR$/Katas/blocks.rb" />
         <option value="$PROJECT_DIR$/Rspec/take_a_10_minute_walk_spec.rb" />
         <option value="$PROJECT_DIR$/Katas/take_a_ten_minute_walk.rb" />
+        <option value="$PROJECT_DIR$/Katas/blocks.rb" />
       </list>
     </option>
   </component>
@@ -171,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="RSpec.Run spec 'take_a_10_minute_walk_spec': shirisha-additions">
+  <component name="RunManager" selected="RSpec.Run spec 'blocks_spec': shirisha-additions">
     <configuration name="Run spec 'blocks_spec': shirisha-additions" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="shirisha-additions" />
@@ -307,8 +310,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'take_a_10_minute_walk_spec': shirisha-additions" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'blocks_spec': shirisha-additions" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'blocks_spec': shirisha-additions" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'take_a_10_minute_walk_spec': shirisha-additions" />
         <item index="2" class="java.lang.String" itemvalue="RSpec.Run spec 'high_and_low_spec': shirisha-additions" />
         <item index="3" class="java.lang.String" itemvalue="Ruby.high_and_low" />
         <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'splat_methods_spec': shirisha-additions" />
@@ -331,12 +334,13 @@
       <updated>1524240880749</updated>
       <workItem from="1524240882149" duration="38180000" />
       <workItem from="1524685367783" duration="30000" />
+      <workItem from="1524689458205" duration="183000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec_'take_a_10_minute_walk_spec'__shirisha-additions - 2018.04.25 at 15h 23m 02s.xml">
-      <configuration name="Run spec 'take_a_10_minute_walk_spec': shirisha-additions" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'blocks_spec'__shirisha-additions - 2018.04.25 at 16h 53m 57s.xml">
+      <configuration name="Run spec 'blocks_spec': shirisha-additions" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec_'take_a_10_minute_walk_spec'__shirisha-additions - 2018.04.25 at 15h 24m 04s.xml">
       <configuration name="Run spec 'take_a_10_minute_walk_spec': shirisha-additions" configurationId="RSpecRunConfigurationType" />
@@ -367,18 +371,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38210000" />
+    <option name="totallyTimeSpent" value="38393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3294" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4004329" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4004329" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -497,6 +501,38 @@
     <entry file="file://$PROJECT_DIR$/Rspec/blocks_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katas/blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rspec/take_a_10_minute_walk_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katas/take_a_ten_minute_walk.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rspec/blocks_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
           <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding />
         </state>
@@ -596,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,22 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Katas/blocks.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rspec/blocks_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rspec/take_a_10_minute_walk_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -649,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,8 +680,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Katas/take_a_ten_minute_walk.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="459">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katas/blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rspec/blocks_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
