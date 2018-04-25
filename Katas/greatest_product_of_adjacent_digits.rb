@@ -6,7 +6,8 @@ class GreatestProductOfAdjacentDigits
   numberarr = number.to_s.split('')
   numberarr2 = numberarr.to_s.to_i
   arr2 = numberarr.uniq
-  puts arr2
+  avg = arr2.inject(arr2.inject(0) { |sum, x| sum += x } / arr2.size)
+  puts avg
     end
 
 end

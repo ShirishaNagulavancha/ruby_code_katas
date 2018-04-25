@@ -11,18 +11,18 @@ class LargestPalindromeProduct
     product = 0
     first_number = arr1.reverse
     second_number = arr2.reverse
-    largest_palidrome = 0
+    largest_palindrome = 0
     first_number.each do |first|
       second_number.each do |second|
         product = first*second
-        if is_palindrome?(product) && largest_palidrome <= product
-          largest_palidrome = product
+        if is_palindrome?(product) && largest_palindrome <= product
+          largest_palindrome = product
           break
         end
       end
 
     end
-    puts largest_palidrome
+    puts largest_palindrome
   end
 
   def is_palindrome?(number)
