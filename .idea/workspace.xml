@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3446b63d-4d1c-4bfa-82fb-0bb263a87605" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Katas/calculating_with_functions.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Katas/delete_nth_occurance.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Katas/duplicate_encoder.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Katas/error_handling.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Rspec/delete_nth_spec.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Rspec/error_handling_spec.rb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Katas/take_a_ten_minute_walk.rb" afterPath="$PROJECT_DIR$/Katas/take_a_ten_minute_walk.rb" />
-      <change beforePath="$PROJECT_DIR$/Rspec/take_a_10_minute_walk_spec.rb" afterPath="$PROJECT_DIR$/Rspec/take_a_10_minute_walk_spec.rb" />
-    </list>
+    <list default="true" id="3446b63d-4d1c-4bfa-82fb-0bb263a87605" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -384,7 +374,7 @@
       <updated>1524240880749</updated>
       <workItem from="1524240882149" duration="38180000" />
       <workItem from="1524685367783" duration="30000" />
-      <workItem from="1524689458205" duration="16453000" />
+      <workItem from="1524689458205" duration="16891000" />
     </task>
     <servers />
   </component>
@@ -421,7 +411,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54663000" />
+    <option name="totallyTimeSpent" value="55101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3294" y="-8" width="1936" height="1056" extended-state="6" />
