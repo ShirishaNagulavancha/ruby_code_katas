@@ -9,9 +9,8 @@
 
 
 def isValidWalk(walk)
-  starting_point = [[0][0]]
-  current_direction = 0
-  distance_travelled = [[0][0]]
+  starting_point = [0, 0]
+  distance_travelled = [0, 0]
   if walk.size != 10
     false
   else
@@ -25,20 +24,20 @@ def isValidWalk(walk)
     end
   end
 end
-def move_player(position, direction)
 
-x, y = position [[], []]
+def move_player(position, direction)
+  x, y = position
   if direction == 'w'
-      x -= 1
+    x -= 1
 
   elsif direction == 'e'
-      x += 1
+    x += 1
 
   elsif direction == 's'
-      y -= 1
+    y -= 1
 
   elsif direction == 'n'
-      y += 1
-      end
-
+    y += 1
+  end
+  return x, y
 end
